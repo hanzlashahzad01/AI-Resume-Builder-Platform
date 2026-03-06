@@ -41,6 +41,17 @@ Scripts are defined in each app. See frontend and backend README sections for se
 
 <img width="1919" height="1029" alt="dark2" src="https://github.com/user-attachments/assets/d6823a07-2de6-436c-a878-1d09afaec6b6" />
 
+.
+
+## 📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+
 ## Made by Hanzla Shahzad 
 
 
